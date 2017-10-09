@@ -7,4 +7,5 @@ void main() {
 	cout << "Enter a number: "; 
 	cin >> number;
 	cout << "You entered the number " << number << endl;
+        cout << " PROGRAM END " << endl;
 }
